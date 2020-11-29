@@ -9,3 +9,6 @@ Current list. (This will be updated more in the future)
 1. Shopee
 1. Bytedance
 
+
+Currently all done in python
+
