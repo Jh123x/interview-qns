@@ -5,7 +5,7 @@ Solutions (The code in the file. May not be optimal)
 
 Feel free to do a pull request with a more efficient solution.
 
-Current list
+Current list. (This will be updated more in the future)
 1. Shopee
-2. Bytedance
+1. Bytedance
 
